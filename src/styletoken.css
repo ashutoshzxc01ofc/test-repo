@@ -48,7 +48,7 @@
   --number-80: 80px;
   --colors-neutral-white: #FFFFFF;
   --corner-radius-xl: 12px;
-  --corner-radius-xxl: 0px;
+  --corner-radius-xxl: 16px;
   --corner-radius-3xl: 24px;
   --corner-radius-4xl: 32px;
   --corner-radius-5xl: 64px;
@@ -67,10 +67,11 @@
   --brand-secondary-secondary-3: #2E008B;
   --brand-secondary-secondary-2: #C4C9D2;
   --brand-secondary-secondary-1: #13294B;
-  --interactive-default: #FBD872;
-  --interactive-hover: #F8485E;
+  --interactive-default: #205463;
+  --interactive-hover: #2D807B;
   --interactive-active: #3AAB94;
   --interactive-focus: #4FF5C4;
   --interactive-disbaled: #D9FFF4;
   --button-text: #FFFFFF;
+  --brand-header-header-color: #06041F;
 }
