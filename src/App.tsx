@@ -39,7 +39,7 @@ function App() {
           onMouseEnter={() => setHover(true)}
           onMouseLeave={() => setHover(false)}
         >
-          FINCH POC
+          FINCH POC BUTTON
         </button>
       </div>
     </div>
