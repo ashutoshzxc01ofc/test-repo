@@ -1,109 +1,170 @@
 import { useState } from "react";
 import "./App.css";
 import "./styletoken.css";
+import Logo from "../public/Finch Logo.svg";
+import microsoftLogo from "../src/assets/microsoft.svg.png";
 
 function App() {
   const [hover, setHover] = useState(false);
+
   return (
-    <div
-      className="app-layout px-2"
-      style={{
-        backgroundColor: "var(--colors-blues-blue-200)",
-      }}
-    >
+    <div className="app-layout">
       <div
-        className="mt-2 h-16 flex justify-between items-center rounded-md px-4"
+        className=" h-14 flex justify-between items-center"
         style={{
-          backgroundColor: "var(--colors-primary-2)",
+          backgroundColor: "var(--colors-brands-primary-main)",
         }}
       >
-        <div className="text-white font-medium text-3xl ">Finch Plugin</div>
+        <div className="text-white font-medium text-3xl ml-32">
+          {" "}
+          <img src={Logo} alt="Logo" className="h-10" />
+        </div>
       </div>
-      <div
-        style={{
-          backgroundColor: "var(--colors-blues-blue-200)",
-        }}
-        className="h-full flex"
-      >
-        <div className="mt-12 w-1/2 ml-4">
-          <div className="text-5xl  font-bold italic ">
-            Design to Code Automation: Building the Future of Seamless Workflows
-          </div>
-          <div className="text-xl mt-8 font-normal ">
-            In this hackathon, participants will dive into the world of design
-            system automation, real-time design-to-code transformations, and
-            cross-platform scalability. With Figma as the centerpiece, teams
-            will build tools and plugins that streamline everything from
-            branding customization to fully responsive design-to-code
-            conversion. This hackathon offers a unique opportunity for
-            designers, developers, and product teams to work together to solve
-            real-world challenges using cutting-edge automation technologies.
+      <div className="h-full flex">
+        <div
+          className="w-1/2 flex items-center justify-center shadow"
+          style={{
+            backgroundColor: "var(--colors-grey-light)",
+          }}
+        >
+          <div
+            className="w-8/12 p-4 bg-white  "
+            style={{
+              borderRadius: "var(--corner-radius-s)",
+              color: "var(--colors-miscellaneous-miscellaneous-text-3)",
+              boxShadow: `0 4px 6px -1px var(--colors-shadow-shadow-4), 0 2px 4px -1px var(--colors-shadow-shadow-4)`,
+              //  boxShadow: `0 0 10px 2px  var(--colors-shadow-shadow-4)`,
+              //boxShadow: ` var(--number-6)    var(--number-6)    var(--number-6)   var(--number-6)  var(--colors-shadow-shadow-4)`,
+            }}
+          >
+            <div className="font-mulish font-black text-5xl">
+              Finch Design System
+            </div>
+            <div className="font-medium text-2xl mt-2">
+              A Robust & Automated Framework for Scalable Design
+            </div>
+            <div className="text-sm mt-8 font-normal ">
+              Finch Design System is a robust framework designed to streamline
+              design and development through reusable components and automated
+              workflows. It ensures consistency, accessibility, and scalability
+              across platforms while enabling seamless collaboration. Finch
+              empowers teams to focus on innovation with efficiency and
+              flexibility at its core.
+            </div>
           </div>
         </div>
-        <div className="mt-12  flex justify-center  w-8/12">
-          <form className=" space-y-4  px-20 w-2/3 ">
-            <div className="text-3xl font-semibold">For Latest Updates</div>
-
-            <div>
-              <div className="mb-2 text-lg"> Name:</div>
-              <label>
-                <input
-                  type="text"
-                  name="name"
-                  required
-                  className="border w-full rounded p-2"
-                />
-              </label>
+        <div className="  flex items-center justify-center  w-1/2">
+          <form className=" space-y-4  px-20 w-10/12 ">
+            <div
+              className="text-3xl font-semibold 
+"
+              style={{
+                color: "var(--colors-miscellaneous-miscellaneous-text-3)",
+              }}
+            >
+              Log in into your account!
+            </div>
+            <div
+              className="text-sm  pb-4 font-medium cursor-pointer  underline underline-offset-2 
+"
+              style={{
+                color: "var(--colors-miscellaneous-hyperlink)",
+              }}
+            >
+              How to get username and password?
             </div>
             <div>
-              <div className="mb-2 text-lg"> Email:</div>
+              <div
+                className="mb-2 text-base"
+                style={{
+                  color: "var(--colors-miscellaneous-miscellaneous-text-3)",
+                }}
+              >
+                Email
+              </div>
               <label>
                 <input
                   type="email"
                   name="email"
                   required
                   className="border w-full rounded p-2"
+                  style={{
+                    backgroundColor: "var(--colors-surface-surface)",
+                    borderRadius: "var(--corner-radius-xs)",
+                    // padding: "var(--spacing-md)",
+                    borderColor: "var( --colors-surface-line)",
+                    color: "var(--colors-type-secondary)",
+                  }}
                 />
               </label>
             </div>
             <div>
-              <div className="mb-2 text-lg"> Phone Number:</div>
+              <div
+                className="mb-2 text-base"
+                style={{
+                  color: "var(--colors-miscellaneous-miscellaneous-text-3)",
+                }}
+              >
+                Password
+              </div>
               <label>
                 <input
-                  type="tel"
+                  type="password"
                   name="phone"
                   required
                   className="border rounded p-2 w-full"
-                />
-              </label>
-            </div>
-            <div>
-              <div className="mb-2 text-lg">Country:</div>
-              <label>
-                <input
-                  type="text"
-                  name="country"
-                  required
-                  className="border rounded p-2 w-full"
+                  style={{
+                    backgroundColor: "var(--colors-surface-surface)",
+                    borderRadius: "var(--corner-radius-xs)",
+                    // padding: "var(--spacing-md)",
+                    borderColor: "var( --colors-surface-line)",
+                    color: "var(--colors-type-secondary)",
+                  }}
                 />
               </label>
             </div>
             <div>
               <button
                 type="submit"
-                className="font-medium mt-8 w-full"
+                className="font-normal mt-8 w-full"
                 style={{
-                  borderRadius: "var(--corner-radius-medium)",
-                  padding: "var(--spacing-small)",
-                  color: "var(--button-text)",
+                  borderRadius: "var(--corner-radius-xxl)",
+                  padding: "var(--spacing-md)",
+                  color: "var(--colors-miscellaneous-miscellaneous-text-2)",
                   backgroundColor: hover
-                    ? "var(--interactive-hover)"
-                    : "var(--interactive-default)",
+                    ? "var(--colors-interactive-hover)"
+                    : "var(--colors-interactive-default)",
                 }}
                 onMouseEnter={() => setHover(true)}
                 onMouseLeave={() => setHover(false)}
               >
-                Submit
+                LogIn
+              </button>
+              <div className="w-full flex justify-center text-xs text-slate-500 my-6">
+                Or Log In with
+              </div>
+              <button
+                type="submit"
+                className="font-base flex justify-between border w-full text-black"
+                style={{
+                  borderRadius: "var(--corner-radius-xxl)",
+                  padding: "var(--spacing-md)",
+                  borderColor: "var(--colors-interactive-default)",
+                  // color: "var(--button-text)",
+                }}
+                // onMouseEnter={() => setHover(true)}
+                // onMouseLeave={() => setHover(false)}
+              >
+                <img src={microsoftLogo} alt="Logo" className="h-6 ml-2" />
+                <div
+                  className="text-sm font-medium -ml-5"
+                  style={{
+                    color: "var(--colors-interactive-default)",
+                  }}
+                >
+                  LogIn with Microsoft
+                </div>
+                <div></div>
               </button>
             </div>
           </form>
