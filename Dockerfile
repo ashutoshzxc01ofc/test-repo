@@ -3,7 +3,7 @@ FROM node:18-alpine AS build
 WORKDIR /app
 
 COPY package*.json ./
-RUN npm install typescript --save-dev
+RUN npm install typescript
 
 COPY . .
 
