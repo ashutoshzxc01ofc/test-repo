@@ -1,19 +1,16 @@
-FROM node:18-alpine AS build
-
+FROM node:18-alpine AS builder
 WORKDIR /app
 
 COPY package*.json ./
-RUN npm ci typescript
+RUN npm ci --only=production
 
 COPY . .
-
-RUN npm run build
+RUN npm run build --production
 
 FROM nginx:alpine
 
 COPY --from=build /app/dist /usr/share/nginx/html
 
-# Expose port 80
 EXPOSE 80
 
 CMD ["nginx", "-g", "daemon off;"]
