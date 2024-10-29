@@ -2,10 +2,10 @@ FROM node:18-alpine AS builder
 WORKDIR /app
 
 COPY package*.json ./
-RUN npm ci --only=production
+RUN npm ci 
 
 COPY . .
-RUN npm install -g typescript && npm run build --production
+RUN npm run build --production
 
 FROM nginx:alpine
 
