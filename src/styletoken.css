@@ -1,5 +1,5 @@
 :root {
-  --colors-brands-primary-main: #FF5A5F;
+  --colors-brands-primary-main: #205463;
   --colors-brands-primary-dark: #3AAB94;
   --colors-brands-primary-light: #DAFCF2;
   --colors-brands-secondary-main: #7838CC;
@@ -12,7 +12,7 @@
   --colors-grey-main: #9CA3AF;
   --colors-grey-dark: #585F69;
   --colors-grey-light: #F5F5F5;
-  --colors-interactive-default: #FF5A5F;
+  --colors-interactive-default: #2D807B;
   --colors-interactive-hover: #FF7C80;
   --colors-interactive-active: #FFACAE;
   --colors-interactive-focus: #FFC2C4;
@@ -177,11 +177,11 @@
   --spacing-xl: 12px;
   --spacing-xxl: 16px;
   --corner-radius-xs: 4px;
-  --corner-radius-s: 48px;
+  --corner-radius-s: 0px;
   --corner-radius-md: 16px;
   --corner-radius-lg: 24px;
   --corner-radius-xl: 40px;
-  --corner-radius-xxl: 8px;
+  --corner-radius-xxl: 64px;
   --corner-radius-circle: 104px;
   --colors-miscellaneous-miscellaneous-text: #FFFFFF;
   --colors-greens-green-focused: #F4F4F4;
@@ -245,7 +245,7 @@
   --colors-black-black-shadow-25: #ACACAC;
   --colors-sky-blue-sky-blue-focused: #5DE4FD;
   --colors-light-green-light-green-500: #47D7AC;
-  --colors-miscellaneous-hyperlink: #C6454A;
+  --colors-miscellaneous-hyperlink: #A3EBD5;
   --colors-light-green-light-green-600: #4AEDCE;
   --colors-miscellaneous-icon-set: #4AEDCE;
   --colors-new-colors-upset-1: #CCAAAA;
