@@ -1,5 +1,5 @@
 :root {
-  --colors-brands-primary-main: undefined;
+  --colors-brands-primary-main: #005C0C;
   --colors-brands-primary-dark: #3AAB94;
   --colors-brands-primary-light: #DAFCF2;
   --colors-brands-secondary-main: #7838CC;
@@ -195,7 +195,6 @@
   --colors-surface-surface: #FFFFFF;
   --spacing-2xs: 4px;
   --number-6: 6px;
-  --mode: undefined;
   --colors-light-red-light-red-50: #FFE4E4;
   --colors-light-red-light-red-100: #FFD3D3;
   --colors-light-red-light-red-200: #FFC3C3;
@@ -251,4 +250,6 @@
   --colors-miscellaneous-icon-set: #4AEDCE;
   --colors-new-colors-upset-1: #CCAAAA;
   --colors-new-colors-upset-2: #080D88;
+  --font-family-title: undefined;
+  --font-family-body: undefined;
 }
