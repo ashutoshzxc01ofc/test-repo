@@ -1,5 +1,5 @@
 :root {
-  --colors-brands-primary-main: #205463;
+  --colors-brands-primary-main: #8C252C;
   --colors-brands-primary-dark: #3AAB94;
   --colors-brands-primary-light: #DAFCF2;
   --colors-brands-secondary-main: #7838CC;
@@ -12,7 +12,7 @@
   --colors-grey-main: #9CA3AF;
   --colors-grey-dark: #585F69;
   --colors-grey-light: #F5F5F5;
-  --colors-interactive-default: #2D807B;
+  --colors-interactive-default: #DD5C5E;
   --colors-interactive-hover: #005C0C;
   --colors-interactive-active: #3AAB94;
   --colors-interactive-focus: #75E1C1;
@@ -181,7 +181,7 @@
   --corner-radius-md: 16px;
   --corner-radius-lg: 24px;
   --corner-radius-xl: 40px;
-  --corner-radius-xxl: 64px;
+  --corner-radius-xxl: 8px;
   --corner-radius-circle: 104px;
   --colors-miscellaneous-miscellaneous-text: #FFFFFF;
   --colors-greens-green-focused: #F4F4F4;
