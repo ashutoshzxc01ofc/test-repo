@@ -1,5 +1,5 @@
 :root {
-  --colors-brands-primary-main: #205463;
+  --colors-brands-primary-main: #8C252C;
   --colors-brands-primary-dark: #3AAB94;
   --colors-brands-primary-light: #DAFCF2;
   --colors-brands-secondary-main: #7838CC;
@@ -181,7 +181,7 @@
   --corner-radius-md: 16px;
   --corner-radius-lg: 64px;
   --corner-radius-xl: 40px;
-  --corner-radius-xxl: 8px;
+  --corner-radius-xxl: 64px;
   --corner-radius-circle: 104px;
   --colors-miscellaneous-miscellaneous-text: #FFFFFF;
   --colors-greens-green-focused: #F4F4F4;
