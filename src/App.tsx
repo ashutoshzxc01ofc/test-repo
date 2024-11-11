@@ -12,7 +12,7 @@ function App() {
       <div
         className=" h-14 flex justify-between items-center"
         style={{
-          backgroundColor: "var(--colors-brands-primary-main)",
+          backgroundColor: "var(--colors-brands-primary-p1-main)",
         }}
       >
         <div className="text-white font-medium text-3xl ml-32">
