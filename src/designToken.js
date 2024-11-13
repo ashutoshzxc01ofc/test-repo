@@ -1,7 +1,7 @@
 // designTokens.js
         export const designTokens = {
           colors: {
-                "brands-primary-p1-main": "#AB323A",
+                "brands-primary-p1-main": "#205463",
     "brands-primary-dark": "#2D807B",
     "brands-primary-light": "#85E2C6",
     "brands-secondary-main": "#7838CC",
@@ -14,7 +14,7 @@
     "grey-main": "#9CA3AF",
     "grey-dark": "#585F69",
     "grey-light": "#F5F5F5",
-    "interactive-default": "#C6454A",
+    "interactive-default": "#2D807B",
     "interactive-hover": "#2D807B",
     "interactive-active": "#3AAB94",
     "interactive-focus": "#34CEA0",
@@ -206,7 +206,7 @@
     "black-black-shadow-25": "#ACACAC",
     "sky-blue-focused": "#5DE4FD",
     "light-green-500": "#47D7AC",
-    "miscellaneous-hyperlink": "#F87171",
+    "miscellaneous-hyperlink": "#48D3AA",
     "light-green-600": "#4AEDCE",
     "miscellaneous-icon-set": "#4AEDCE",
           },
@@ -258,7 +258,7 @@
     "medium": "16px",
     "large": "32px",
     "xlarge": "40px",
-    "xxlarge": "0px",
+    "xxlarge": "64px",
     "circle": "104px",
     "xxsmall": "2px",
           },
