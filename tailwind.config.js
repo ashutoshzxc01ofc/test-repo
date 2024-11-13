@@ -20,6 +20,9 @@ export default {
       spacing: {
         ...designTokens.spacing,
       },
+        borderRadius: {
+        ...designTokens.borderRadius,
+      },
     },
   },
   plugins: [],
