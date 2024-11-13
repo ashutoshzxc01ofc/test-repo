@@ -1,8 +1,7 @@
-
 // designTokens.js
-    export const designTokens = {
-      colors: {
-         //   "brands-primary-p1-main": "#205463",
+        export const designTokens = {
+          colors: {
+                "brands-primary-p1-main": "#205463",
     "brands-primary-dark": "#2D807B",
     "brands-primary-light": "#DAFCF2",
     "brands-secondary-main": "#7838CC",
@@ -211,9 +210,9 @@
     "miscellaneous-hyperlink": "#2D807B",
     "light-green-600": "#4AEDCE",
     "miscellaneous-icon-set": "#4AEDCE",
-      },
-      fontSize: {
-            "xxs": "12px",
+          },
+          fontSize: {
+                "xxs": "12px",
     "sm": "20px",
     "md": "24px",
     "lg": "32px",
@@ -222,9 +221,9 @@
     "3xl": "56px",
     "4xl": "64px",
     "xs": "18px",
-      },
-      spacing: {
-            "null": "0px",
+          },
+          spacing: {
+                "null": "0px",
     "xs": "6px",
     "s": "6px",
     "md": "8px",
@@ -237,9 +236,9 @@
     "3xs": "2px",
     "2xs": "4px",
     "6xl": "32px",
-      },
-      fontWeight: {
-            "extra-light": "Extra Light",
+          },
+          fontWeight: {
+                "extra-light": "Extra Light",
     "light": "Light",
     "regular": "Regular",
     "medium": "Medium",
@@ -248,9 +247,9 @@
     "extra-bold": "Extra Bold",
     "black": "Black",
     "extra-black": "Extra Black",
-      },
-      fontFamily: {
-            "title": "Mulish",
+          },
+          fontFamily: {
+                "title": "Mulish",
     "body": "Mulish",
-      },
-    };
+          },
+        };
