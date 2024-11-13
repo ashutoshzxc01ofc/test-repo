@@ -14,7 +14,7 @@ export default {
       },
 
       fontSize: {
-        ...designTokens.fontSize,
+      //  ...designTokens.fontSize,
       },
 
       spacing: {
