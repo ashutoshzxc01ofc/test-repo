@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-import { designTokens } from "./src/designTokens"; // Import the design tokens
+import { designTokens } from "./src/designToken"; // Import the design tokens
 
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
