@@ -252,4 +252,15 @@
                 "title": "Mulish",
     "body": "Mulish",
           },
+          borderRadius: {
+                "null": "0px",
+    "xsmall": "4px",
+    "small": "8px",
+    "medium": "16px",
+    "large": "32px",
+    "xlarge": "40px",
+    "xxlarge": "64px",
+    "circle": "104px",
+    "xxsmall": "2px",
+          },
         };
