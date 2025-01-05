@@ -1,7 +1,7 @@
 // designTokens.js
         export const designTokens = {
           colors: {
-                "brands-primary-p1-main": "#205463",
+                "brands-primary-p1-main": "#D097FF",
     "brands-primary-dark": "#2D807B",
     "brands-primary-light": "#85E2C6",
     "brands-secondary-main": "#7838CC",
