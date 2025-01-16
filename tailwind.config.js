@@ -23,6 +23,9 @@ export default {
         borderRadius: {
         ...designTokens.borderRadius,
       },
+fontWeight: {
+        ...designTokens.fontWeight,
+      },
     },
   },
   plugins: [],
