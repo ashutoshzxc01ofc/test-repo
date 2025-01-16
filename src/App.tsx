@@ -150,10 +150,10 @@ function App() {
               </div>
               <button
                 type="submit"
-                className="font-base flex justify-between border w-full text-black border-interactive-default rounded-xxlarge"
+                className="font-base flex justify-between border w-full text-black border-interactive-default rounded-xxlarge p-md"
                 style={{
                   // borderRadius: "var(--corner-radius-xxl)",
-                  padding: "var(--spacing-md) ",
+                  // padding: "var(--spacing-md) ",
                   //   borderColor: "var(--colors-interactive-default)",
                   // color: "var(--button-text)",
                 }}
