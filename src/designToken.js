@@ -417,7 +417,7 @@
     "medium": "16px",
     "large": "32px",
     "xlarge": "40px",
-    "xxlarge": "64px",
+    "xxlarge": "0px",
     "circle": "104px",
     "xxsmall": "2px",
           },
