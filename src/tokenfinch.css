@@ -183,7 +183,7 @@
   --corner-radius-medium: 16px;
   --corner-radius-large: 32px;
   --corner-radius-xlarge: 40px;
-  --corner-radius-xxlarge: 64px;
+  --corner-radius-xxlarge: 0px;
   --corner-radius-circle: 104px;
   --colors-miscellaneous-miscellaneous-text: #FFFFFF;
   --colors-surface-surface-selected-highlight: #2D807B;
@@ -282,12 +282,12 @@
   --colors-black-1000: #181818;
   --colors-black-1100: #000000;
   --colors-surface-surface-dl: #000000;
-  --color-primary: #f26c4f;
-  --color-secondary: #f4399e;
-  --color-text: #a1a1a1;
-  --bg-body: #0d0f16;
-  --bg-header: #020312;
-  --bg-content: #181a25;
+  --color-primary: #A763F8;
+  --color-secondary: #FFC3C3;
+  --color-text: #8CD799;
+  --bg-header: #4A9DFD;
+  --bg-content: #5E5E5E;
+  --bg-body: #000000;
   --font-family-display: Open Sans;
   --font-family-subtitle-regular: Open Sans;
   --font-family-subtitle-bold: Mulish;
