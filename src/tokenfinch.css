@@ -282,12 +282,12 @@
   --colors-black-1000: #181818;
   --colors-black-1100: #000000;
   --colors-surface-surface-dl: #000000;
-  --color-primary: #FF5A5F;
-  --color-secondary: #A763F8;
-  --color-text: #B0B0B0;
-  --bg-header: #E0C46C;
-  --bg-content: #FD928F;
-  --bg-body: #000000;
+  --color-primary: #f26c4f;
+  --color-secondary: #f4399e;
+  --color-text: #a1a1a1;
+  --bg-body: #0d0f16;
+  --bg-header: #020312;
+  --bg-content: #181a25;
   --font-family-display: Open Sans;
   --font-family-subtitle-regular: Open Sans;
   --font-family-subtitle-bold: Mulish;
