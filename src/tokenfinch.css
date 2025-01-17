@@ -282,10 +282,10 @@
   --colors-black-1000: #181818;
   --colors-black-1100: #000000;
   --colors-surface-surface-dl: #000000;
-  --color-primary: #FF5A5F;
-  --color-secondary: #A763F8;
-  --color-text: #CDAF35;
-  --bg-header: #D6F5EC;
+  --color-primary: undefined;
+  --color-secondary: #FFC3C3;
+  --color-text: #B0B0B0;
+  --bg-header: #727272;
   --bg-content: #5E5E5E;
   --bg-body: #000000;
   --font-family-display: Open Sans;
