@@ -7,7 +7,7 @@ import study from "../public/Study.svg";
 import portfolio from "../public/Portfolio.svg";
 import issueicon from "../public/Issue.svg";
 import anaomalyicon from "../public/Anaomaly.svg";
-import Card from "./card";
+import Card from "./Card";
 import frameuser from "../public/Frame_useracc.png";
 import logo from "../public/Logo.png";
 
