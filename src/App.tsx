@@ -1,22 +1,26 @@
 import "./App.css";
 import "./styletoken.css";
-import Logo from "../public/Finch Logo.svg";
+// import Logo from "../public/Finch Logo.svg";
 import RACT from "../public/RACT.svg";
 import RACT_EFF from "../public/RACT_eff.svg";
 import study from "../public/Study.svg";
 import portfolio from "../public/Portfolio.svg";
 import issueicon from "../public/Issue.svg";
 import anaomalyicon from "../public/Anaomaly.svg";
-import Card from "./Card";
-
+import Card from "./card";
+import frameuser from "../public/Frame_useracc.png";
+import logo from "../public/Logo.png";
 
 
 function App() {
   return (
     <div className="app-layout bg-[#1a1628]">
-      <div className=" h-[68px] flex items-center  bg-[#1a1628] shadow-[0px_4px_120px_#603fa966]">
+      <div className=" h-[68px] flex items-center justify-between bg-[#1a1628] shadow-[0px_4px_120px_#603fa966]">
         <div className="text-white font-medium text-3xl ">
-          <img src={Logo} alt="Logo" className="h-10" />
+          <img src={logo} alt="Logo" className="h-10 ml-2" />
+        </div>
+        <div>
+          <img src={frameuser} alt="user" className="h-10 mr-14" />
         </div>
       </div>
 
