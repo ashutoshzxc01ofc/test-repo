@@ -14,8 +14,8 @@ import logo from "../public/Logo.png";
 
 function App() {
   return (
-    <div className="app-layout bg-[#1a1628]">
-      <div className=" h-[68px] flex items-center justify-between bg-[#1a1628] shadow-[0px_4px_120px_#603fa966]">
+    <div className="app-layout bg-dark-purple-100">
+      <div className=" h-[68px] flex items-center justify-between bg-dark-purple-100 shadow-[0px_4px_120px_#603fa966]">
         <div className="text-white font-medium text-3xl ">
           <img src={logo} alt="Logo" className="h-10 ml-2" />
         </div>
@@ -25,7 +25,7 @@ function App() {
       </div>
 
       <div className="flex w-full h-full">
-        <div className="w-16 bg-[#1a1628] " />
+        <div className="w-16 bg-dark-purple-100 " />
         <div className="w-11/12 h-screen overflow-auto ">
         <div className="text-white text-2xl font-bold ml-6 mt-4">Welcome to RBQM 360</div>
         <div className="text-white text-lg font-normal ml-6 mt-1">Check out our latest services</div>
