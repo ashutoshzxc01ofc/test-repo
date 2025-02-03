@@ -18,7 +18,7 @@ function App() {
     <div className="app-layout bg-dark-purple-100 h-full">
       <div className=" h-[64px] flex z-10 items-center justify-between bg-dark-purple-100 shadow-[0px_4px_120px_#603fa966]">
         <div className="text-white font-medium text-3xl ">
-          <img src={logo} alt="Logo" className="h-10 ml-2 mt-2" />
+          <img src={logo} alt="Logo" className="h-10 ml-3 mt-2" />
         </div>
         <div>
           <img src={frameuser} alt="user" className="h-10 mr-12" />
