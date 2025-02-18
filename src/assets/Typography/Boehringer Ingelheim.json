@@ -1,0 +1,128 @@
+{
+  "font": {
+    "family zs": {
+      "title boehringer ingelheim": {
+        "value": "Mulish",
+        "type": "text"
+      },
+      "body boehringer ingelheim": {
+        "value": "Mulish",
+        "type": "text"
+      }
+    },
+    "weight": {
+      "extra light boehringer ingelheim": {
+        "value": "Extra Light",
+        "type": "text"
+      },
+      "light boehringer ingelheim": {
+        "value": "Light",
+        "type": "text"
+      },
+      "regular boehringer ingelheim": {
+        "value": "Regular",
+        "type": "text"
+      },
+      "medium boehringer ingelheim": {
+        "value": "Medium",
+        "type": "text"
+      },
+      "semibold boehringer ingelheim": {
+        "value": "Semibold",
+        "type": "text"
+      },
+      "bold boehringer ingelheim": {
+        "value": "Bold",
+        "type": "text"
+      },
+      "extra bold boehringer ingelheim": {
+        "value": "Extra Bold",
+        "type": "text"
+      },
+      "black boehringer ingelheim": {
+        "value": "  Black",
+        "type": "text"
+      },
+      "extra black boehringer ingelheim": {
+        "value": "Extra Black",
+        "type": "text"
+      }
+    },
+    "size": {
+      "xxs boehringer ingelheim": {
+        "value": 12,
+        "type": "number"
+      },
+      "sm boehringer ingelheim": {
+        "value": 20,
+        "type": "number"
+      },
+      "md boehringer ingelheim": {
+        "value": 24,
+        "type": "number"
+      },
+      "lg boehringer ingelheim": {
+        "value": 32,
+        "type": "number"
+      },
+      "xl boehringer ingelheim": {
+        "value": 40,
+        "type": "number"
+      },
+      "2xl boehringer ingelheim": {
+        "value": 48,
+        "type": "number"
+      },
+      "3xl boehringer ingelheim": {
+        "value": 56,
+        "type": "number"
+      },
+      "4xl boehringer ingelheim": {
+        "value": 64,
+        "type": "number"
+      },
+      "xs boehringer ingelheim": {
+        "value": 18,
+        "type": "number"
+      }
+    },
+    "line-height": {
+      "xxs boehringer ingelheim": {
+        "value": 20,
+        "type": "number"
+      },
+      "xs boehringer ingelheim": {
+        "value": 24,
+        "type": "number"
+      },
+      "s boehringer ingelheim": {
+        "value": 28,
+        "type": "number"
+      },
+      "m boehringer ingelheim": {
+        "value": 36,
+        "type": "number"
+      },
+      "l boehringer ingelheim": {
+        "value": 48,
+        "type": "number"
+      },
+      "xl boehringer ingelheim": {
+        "value": 56,
+        "type": "number"
+      },
+      "2xl boehringer ingelheim": {
+        "value": 64,
+        "type": "number"
+      },
+      "3xl boehringer ingelheim": {
+        "value": 80,
+        "type": "number"
+      },
+      "4xl boehringer ingelheim": {
+        "value": 96,
+        "type": "number"
+      }
+    }
+  }
+}
