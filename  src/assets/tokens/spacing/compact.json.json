@@ -1,0 +1,54 @@
+{
+  "spacing-null compact": {
+    "value": "0px",
+    "type": "number"
+  },
+  "spacing-xs compact": {
+    "value": "6px",
+    "type": "number"
+  },
+  "spacing-s compact": {
+    "value": "6px",
+    "type": "number"
+  },
+  "spacing-md compact": {
+    "value": "8px",
+    "type": "number"
+  },
+  "spacing-lg compact": {
+    "value": "12px",
+    "type": "number"
+  },
+  "spacing-xl compact": {
+    "value": "12px",
+    "type": "number"
+  },
+  "spacing-xxl compact": {
+    "value": "16px",
+    "type": "number"
+  },
+  "spacing-3xl compact": {
+    "value": "16px",
+    "type": "number"
+  },
+  "spacing-4xl compact": {
+    "value": "20px",
+    "type": "number"
+  },
+  "spacing-5xl compact": {
+    "value": "24px",
+    "type": "number"
+  },
+  "spacing-3xs compact": {
+    "value": "2px",
+    "type": "number"
+  },
+  "spacing-2xs compact": {
+    "value": "4px",
+    "type": "number"
+  },
+  "spacing-6xl compact": {
+    "value": "32px",
+    "type": "number"
+  }
+}
