@@ -1,0 +1,18 @@
+{
+  "primary color mode1": {
+    "value": "#1A3366",
+    "type": "color"
+  },
+  "secondary color mode1": {
+    "value": "#B280CC",
+    "type": "color"
+  },
+  "font mode1": {
+    "value": "Mulish",
+    "type": "text"
+  },
+  "string mode1": {
+    "value": "String value",
+    "type": "text"
+  }
+}
