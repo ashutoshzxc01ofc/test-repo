@@ -1,0 +1,26 @@
+{
+  "color-primary mode 1": {
+    "value": "#FCF99A",
+    "type": "color"
+  },
+  "color-secondary mode 1": {
+    "value": "#FFC3C3",
+    "type": "color"
+  },
+  "color-text mode 1": {
+    "value": "#A763F8",
+    "type": "color"
+  },
+  "bg-header mode 1": {
+    "value": "#0FE9B3",
+    "type": "color"
+  },
+  "bg-content mode 1": {
+    "value": "#5E5E5E",
+    "type": "color"
+  },
+  "bg-body mode 1": {
+    "value": "#000000",
+    "type": "color"
+  }
+}
