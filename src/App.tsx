@@ -150,11 +150,11 @@ function App() {
               </div>
               <button
                 type="submit"
-                className="font-base flex justify-between border w-full text-black  border-interactive-default-light-mode rounded-xxlarge-default "
+                className="font-base flex justify-between border w-full text-black  border-interactive-default-light-mode rounded-xxlarge-default py-xs-cozy"
                 //  className="font-base flex justify-between border w-full text-black border-interactive-default rounded-xxlarge p-md"
                 style={{
                   // borderRadius: "var(--corner-radius-xxl)",
-                  padding: "var(--spacing-md) ",
+                //  padding: "var(--spacing-md) ",
                   // padding: "var(--spacing-md) ",
                   //   borderColor: "var(--colors-interactive-default)",
                   // color: "var(--button-text)",
@@ -164,7 +164,7 @@ function App() {
               >
                 <img src={microsoftLogo} alt="Logo" className="h-6 ml-2" />
                 <div
-                  className="text-sm font-medium -ml-5  text-interactive-default-light-mode py-xs-cozy"
+                  className="text-sm font-medium -ml-5  text-interactive-default-light-mode "
                   // style={{
                   //   color: "var(--colors-interactive-default)",
                   //   padding: "var(--spacing-sm) var(--spacing-md)",
