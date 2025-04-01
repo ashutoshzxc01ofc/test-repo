@@ -1,6 +1,6 @@
 export const designTokens = {
   "colors": {
-    "primary": "#3498db",
+    "primary": "#45dd43",
     "secondary": "#2ecc71"
   },
   "typography": {
