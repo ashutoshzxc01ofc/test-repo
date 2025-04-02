@@ -1,496 +1,450 @@
-/**
- * Do not edit directly, this file was auto-generated.
- */
-
-export const ColorsBrandPrimaryP1MainLightMode = "#205463";
-export const ColorsBrandPrimaryDarkLightMode = "#2d807b";
-export const ColorsBrandPrimaryLightLightMode = "#c2f0e3";
-export const ColorsBrandPrimaryP1MainDarkMode = "#71ddbd";
-export const ColorsBrandPrimaryDarkDarkMode = "#71ddbd";
-export const ColorsBrandPrimaryLightDarkMode = "#ebfaf6";
-export const ColorsBrandPrimaryP1MainNewMode = "#ccccf4";
-export const ColorsBrandPrimaryDarkNewMode = "#6666df";
-export const ColorsBrandPrimaryLightNewMode = "#eeeeff";
-export const ColorsBrandSecondaryMainLightMode = "#7838cc";
-export const ColorsBrandSecondaryDarkLightMode = "#4a227e";
-export const ColorsBrandSecondaryLightLightMode = "#e1b3ff";
-export const ColorsBrandSecondaryMainDarkMode = "#7838cc";
-export const ColorsBrandSecondaryDarkDarkMode = "#4a227e";
-export const ColorsBrandSecondaryLightDarkMode = "#e1b3ff";
-export const ColorsBrandSecondaryMainNewMode = "#7838cc";
-export const ColorsBrandSecondaryDarkNewMode = "#4a227e";
-export const ColorsBrandSecondaryLightNewMode = "#e1b3ff";
-export const ColorsTypePrimaryLightMode = "#06041f";
-export const ColorsTypeSecondaryLightMode = "#4b4b4b";
-export const ColorsTypeTertiaryLightMode = "#5e5e5e";
-export const ColorsTypeDeactivatedLightMode = "#868686";
-export const ColorsTypePrimaryDarkMode = "#ffffff";
-export const ColorsTypeSecondaryDarkMode = "#f5f5f5";
-export const ColorsTypeTertiaryDarkMode = "#f3f3f3";
-export const ColorsTypeDeactivatedDarkMode = "#f3f3f3";
-export const ColorsTypePrimaryNewMode = "#ffffff";
-export const ColorsTypeSecondaryNewMode = "#f5f5f5";
-export const ColorsTypeTertiaryNewMode = "#f3f3f3";
-export const ColorsTypeDeactivatedNewMode = "#f3f3f3";
-export const ColorsGreyMainLightMode = "#9ca3af";
-export const ColorsGreyDarkLightMode = "#585f69";
-export const ColorsGreyLightLightMode = "#f5f5f5";
-export const ColorsGreyMainDarkMode = "#9ca3af";
-export const ColorsGreyDarkDarkMode = "#abb1ba";
-export const ColorsGreyLightDarkMode = "#808792";
-export const ColorsGreyMainNewMode = "#9ca3af";
-export const ColorsGreyDarkNewMode = "#abb1ba";
-export const ColorsGreyLightNewMode = "#808792";
-export const ColorsGrey50Colors = "#f5f5f5";
-export const ColorsGrey100Colors = "#e7e7e7";
-export const ColorsGrey200Colors = "#d7d7d9";
-export const ColorsGrey300Colors = "#abb1ba";
-export const ColorsGrey400Colors = "#959ca6";
-export const ColorsGrey500Colors = "#808792";
-export const ColorsGrey600Colors = "#6c727e";
-export const ColorsGrey700Colors = "#585f69";
-export const ColorsGrey800Colors = "#464c55";
-export const ColorsGrey900Colors = "#353940";
-export const ColorsGreyColorBaseColors = "#9ca3af";
-export const ColorsInteractiveDefaultLightMode = "#205463";
-export const ColorsInteractiveHoverLightMode = "#2d807b";
-export const ColorsInteractiveFocusLightMode = "#34cea0";
-export const ColorsInteractiveDisabledLightMode = "#ebfaf6";
-export const ColorsInteractiveActiveLightMode = "#3aab94";
-export const ColorsInteractiveDefaultDarkMode = "#85e2c6";
-export const ColorsInteractiveHoverDarkMode = "#71ddbd";
-export const ColorsInteractiveFocusDarkMode = "#48d3aa";
-export const ColorsInteractiveDisabledDarkMode = "#205463";
-export const ColorsInteractiveActiveDarkMode = "#5dd8b3";
-export const ColorsInteractiveDefaultNewMode = "#b3b3ef";
-export const ColorsInteractiveHoverNewMode = "#9999e9";
-export const ColorsInteractiveFocusNewMode = "#6666df";
-export const ColorsInteractiveDisabledNewMode = "#1a1ace";
-export const ColorsInteractiveActiveNewMode = "#8080e4";
-export const ColorsConfirmationActive2LightMode = "#205463";
-export const ColorsConfirmationDefaultLightMode = "#007216";
-export const ColorsConfirmationHoverLightMode = "#005c0c";
-export const ColorsConfirmationActiveLightMode = "#004609";
-export const ColorsConfirmationFocusLightMode = "#008826";
-export const ColorsConfirmationDisabledLightMode = "#e8f8e9";
-export const ColorsConfirmationActive2DarkMode = "#71ddbd";
-export const ColorsConfirmationDefaultDarkMode = "#85e2c6";
-export const ColorsConfirmationHoverDarkMode = "#5dd8b3";
-export const ColorsConfirmationActiveDarkMode = "#004609";
-export const ColorsConfirmationFocusDarkMode = "#008826";
-export const ColorsConfirmationDisabledDarkMode = "#e8f8e9";
-export const ColorsConfirmationActive2NewMode = "#9999e9";
-export const ColorsConfirmationDefaultNewMode = "#b3b3ef";
-export const ColorsConfirmationHoverNewMode = "#8080e4";
-export const ColorsConfirmationActiveNewMode = "#004609";
-export const ColorsConfirmationFocusNewMode = "#008826";
-export const ColorsConfirmationDisabledNewMode = "#e8f8e9";
-export const ColorsDestructiveDefaultLightMode = "#ab323a";
-export const ColorsDestructiveHoverLightMode = "#8c252c";
-export const ColorsDestructiveActiveLightMode = "#ff5a5f";
-export const ColorsDestructiveFocusLightMode = "#c6454a";
-export const ColorsDestructiveDisabledLightMode = "#ffefee";
-export const ColorsDestructiveDefaultDarkMode = "#fd928f";
-export const ColorsDestructiveHoverDarkMode = "#f07675";
-export const ColorsDestructiveActiveDarkMode = "#f87171";
-export const ColorsDestructiveFocusDarkMode = "#ffd0cc";
-export const ColorsDestructiveDisabledDarkMode = "#c6454a";
-export const ColorsDestructiveDefaultNewMode = "#fd928f";
-export const ColorsDestructiveHoverNewMode = "#f07675";
-export const ColorsDestructiveActiveNewMode = "#f87171";
-export const ColorsDestructiveFocusNewMode = "#ffd0cc";
-export const ColorsDestructiveDisabledNewMode = "#c6454a";
-export const ColorsWarningMainLightMode = "#eac608";
-export const ColorsWarningLightLightMode = "#e0c46c";
-export const ColorsWarningMainDarkMode = "#eac608";
-export const ColorsWarningLightDarkMode = "#e0c46c";
-export const ColorsWarningMainNewMode = "#eac608";
-export const ColorsWarningLightNewMode = "#e0c46c";
-export const ColorsInfoMainLightMode = "#007216";
-export const ColorsInfoLightLightMode = "#bae8c0";
-export const ColorsInfoMainDarkMode = "#26b256";
-export const ColorsInfoLightDarkMode = "#bae8c0";
-export const ColorsInfoMainNewMode = "#26b256";
-export const ColorsInfoLightNewMode = "#bae8c0";
-export const ColorsSuccessMainLightMode = "#22c55e";
-export const ColorsSuccessLightLightMode = "#e8f8e9";
-export const ColorsSuccessMainDarkMode = "#22c55e";
-export const ColorsSuccessLightDarkMode = "#8cd799";
-export const ColorsSuccessMainNewMode = "#22c55e";
-export const ColorsSuccessLightNewMode = "#8cd799";
-export const ColorsErrorMainLightMode = "#f87171";
-export const ColorsErrorLightLightMode = "#ffb0ac";
-export const ColorsErrorMainDarkMode = "#f87171";
-export const ColorsErrorLightDarkMode = "#ffb0ac";
-export const ColorsErrorMainNewMode = "#f87171";
-export const ColorsErrorLightNewMode = "#ffb0ac";
-export const ColorsSurfaceSurface0LightMode = "#f5f5f5";
-export const ColorsSurfaceSurface1LightMode = "#e7e7e7";
-export const ColorsSurfaceSurface2LightMode = "#c6c6c6";
-export const ColorsSurfaceLineLightMode = "#c6c6c6";
-export const ColorsSurfaceSurfaceBaseLightMode = "#c2f0e3";
-export const ColorsSurfaceSurfaceSelectedHighlightLightMode = "#2d807b";
-export const ColorsSurfaceSurfaceLightMode = "#ffffff";
-export const ColorsSurfaceSurfaceDarkLightMode = "#ffffff";
-export const ColorsSurfaceSurfaceDlLightMode = "#000000";
-export const ColorsSurfaceSurfaceBase2LightMode = "#2d807b";
-export const ColorsSurfaceSurfaceBase3LightMode = "#d6f5ec";
-export const ColorsSurfaceTableSurface1LightMode = "#ebfaf6";
-export const ColorsSurfaceTableSurface2LightMode = "#ffffff";
-export const ColorsSurfaceSurface0DarkMode = "#181818";
-export const ColorsSurfaceSurface1DarkMode = "#13294b";
-export const ColorsSurfaceSurface2DarkMode = "#4b4b4b";
-export const ColorsSurfaceLineDarkMode = "#5e5e5e";
-export const ColorsSurfaceSurfaceBaseDarkMode = "#3aab94";
-export const ColorsSurfaceSurfaceSelectedHighlightDarkMode = "#c2f0e3";
-export const ColorsSurfaceSurfaceDarkMode = "#1a1628";
-export const ColorsSurfaceSurfaceDarkDarkMode = "#1a1628";
-export const ColorsSurfaceSurfaceDlDarkMode = "#1a1628";
-export const ColorsSurfaceSurfaceBase2DarkMode = "#3aab94";
-export const ColorsSurfaceSurfaceBase3DarkMode = "#f5f5f5";
-export const ColorsSurfaceTableSurface1DarkMode = "#000000";
-export const ColorsSurfaceTableSurface2DarkMode = "#8f5aff";
-export const ColorsSurfaceSurface0NewMode = "#181818";
-export const ColorsSurfaceSurface1NewMode = "#13294b";
-export const ColorsSurfaceSurface2NewMode = "#4b4b4b";
-export const ColorsSurfaceLineNewMode = "#5e5e5e";
-export const ColorsSurfaceSurfaceBaseNewMode = "#3333d4";
-export const ColorsSurfaceSurfaceSelectedHighlightNewMode = "#ccccf4";
-export const ColorsSurfaceSurfaceNewMode = "#1a1628";
-export const ColorsSurfaceSurfaceDarkNewMode = "#1a1628";
-export const ColorsSurfaceSurfaceDlNewMode = "#1a1628";
-export const ColorsSurfaceSurfaceBase2NewMode = "#3333d4";
-export const ColorsSurfaceSurfaceBase3NewMode = "#f5f5f5";
-export const ColorsSurfaceTableSurface1NewMode = "#000000";
-export const ColorsSurfaceTableSurface2NewMode = "#8f5aff";
-export const ColorsStrokePrimaryLightMode = "#abb1ba";
-export const ColorsStrokeSecondaryLightMode = "#d7d7d9";
-export const ColorsStrokeTertiaryLightMode = "#e7e7e7";
-export const ColorsStrokeStrokeSideNavLightMode = "#ffffff";
-export const ColorsStrokeStrokeBottomNavLightMode = "#d7d7d9";
-export const ColorsStrokePrimaryDarkMode = "#808792";
-export const ColorsStrokeSecondaryDarkMode = "#353940";
-export const ColorsStrokeTertiaryDarkMode = "#181818";
-export const ColorsStrokeStrokeSideNavDarkMode = "#484553";
-export const ColorsStrokeStrokeBottomNavDarkMode = "#000000";
-export const ColorsStrokePrimaryNewMode = "#808792";
-export const ColorsStrokeSecondaryNewMode = "#353940";
-export const ColorsStrokeTertiaryNewMode = "#181818";
-export const ColorsStrokeStrokeSideNavNewMode = "#484553";
-export const ColorsStrokeStrokeBottomNavNewMode = "#000000";
-export const ColorsMiscellaneousMiscellaneousTextLightMode = "#ffffff";
-export const ColorsMiscellaneousMiscellaneousText2LightMode = "#dddddd";
-export const ColorsMiscellaneousMiscellaneousText3LightMode = "#06041f";
-export const ColorsMiscellaneousMiscellaneousText4LightMode = "#85e2c6";
-export const ColorsMiscellaneousHyperlinkLightMode = "#3aab94";
-export const ColorsMiscellaneousIconSetLightMode = "#eeeeff";
-export const ColorsMiscellaneousMiscellaneousTextGreyLightMode = "#06041f";
-export const ColorsMiscellaneousMiscellaneousTextDarkMode = "#353940";
-export const ColorsMiscellaneousMiscellaneousText2DarkMode = "#ffffff";
-export const ColorsMiscellaneousMiscellaneousText3DarkMode = "#f3f3f3";
-export const ColorsMiscellaneousMiscellaneousText4DarkMode = "#3aab94";
-export const ColorsMiscellaneousHyperlinkDarkMode = "#205463";
-export const ColorsMiscellaneousIconSetDarkMode = "#eeeeff";
-export const ColorsMiscellaneousMiscellaneousTextGreyDarkMode = "#a3a2a9";
-export const ColorsMiscellaneousMiscellaneousTextNewMode = "#353940";
-export const ColorsMiscellaneousMiscellaneousText2NewMode = "#ffffff";
-export const ColorsMiscellaneousMiscellaneousText3NewMode = "#f3f3f3";
-export const ColorsMiscellaneousMiscellaneousText4NewMode = "#3333d4";
-export const ColorsMiscellaneousHyperlinkNewMode = "#0000c9";
-export const ColorsMiscellaneousIconSetNewMode = "#eeeeff";
-export const ColorsMiscellaneousMiscellaneousTextGreyNewMode = "#a3a2a9";
-export const ColorsChartsPrimaryColor1LightMode = "#ff9696";
-export const ColorsChartsPrimaryColor2LightMode = "#0fe9b3";
-export const ColorsChartsPrimaryColor3LightMode = "#a3c7ff";
-export const ColorsChartsPrimaryColor4LightMode = "#fefc9e";
-export const ColorsChartsPrimaryColor5LightMode = "#d097ff";
-export const ColorsChartsPrimaryColor6LightMode = "#ffd6a5";
-export const ColorsChartsPrimaryColor7LightMode = "#efd1ff";
-export const ColorsChartsPrimaryColor8LightMode = "#da707f";
-export const ColorsChartsPrimaryColor1DarkMode = "#ff9696";
-export const ColorsChartsPrimaryColor2DarkMode = "#0fe9b3";
-export const ColorsChartsPrimaryColor3DarkMode = "#a3c7ff";
-export const ColorsChartsPrimaryColor4DarkMode = "#fefc9e";
-export const ColorsChartsPrimaryColor5DarkMode = "#d097ff";
-export const ColorsChartsPrimaryColor6DarkMode = "#ffd6a5";
-export const ColorsChartsPrimaryColor7DarkMode = "#efd1ff";
-export const ColorsChartsPrimaryColor8DarkMode = "#da707f";
-export const ColorsChartsPrimaryColor1NewMode = "#ff9696";
-export const ColorsChartsPrimaryColor2NewMode = "#0fe9b3";
-export const ColorsChartsPrimaryColor3NewMode = "#a3c7ff";
-export const ColorsChartsPrimaryColor4NewMode = "#fefc9e";
-export const ColorsChartsPrimaryColor5NewMode = "#d097ff";
-export const ColorsChartsPrimaryColor6NewMode = "#ffd6a5";
-export const ColorsChartsPrimaryColor7NewMode = "#efd1ff";
-export const ColorsChartsPrimaryColor8NewMode = "#da707f";
-export const ColorsShadowShadow1LightMode = "#d9d9d9";
-export const ColorsShadowShadow2LightMode = "#d8d8d8";
-export const ColorsShadowShadow3LightMode = "#cfcfcf";
-export const ColorsShadowShadow4LightMode = "#acacac";
-export const ColorsShadowShadowZsLightMode = "#ffffff";
-export const ColorsShadowShadow1DarkMode = "#f5f5f5";
-export const ColorsShadowShadow2DarkMode = "#9ca3af";
-export const ColorsShadowShadow3DarkMode = "#9ca3af";
-export const ColorsShadowShadow4DarkMode = "#585f69";
-export const ColorsShadowShadowZsDarkMode = "#603fa9";
-export const ColorsShadowShadow1NewMode = "#f5f5f5";
-export const ColorsShadowShadow2NewMode = "#9ca3af";
-export const ColorsShadowShadow3NewMode = "#9ca3af";
-export const ColorsShadowShadow4NewMode = "#585f69";
-export const ColorsShadowShadowZsNewMode = "#603fa9";
-export const ColorsPfizerPrimary50Colors = "#eeeeff";
-export const ColorsPfizerPrimary100Colors = "#e6e6fa";
-export const ColorsPfizerPrimary200Colors = "#ccccf4";
-export const ColorsPfizerPrimary300Colors = "#b3b3ef";
-export const ColorsPfizerPrimary400Colors = "#9999e9";
-export const ColorsPfizerPrimary500Colors = "#8080e4";
-export const ColorsPfizerPrimary600Colors = "#6666df";
-export const ColorsPfizerPrimary700Colors = "#4d4dd9";
-export const ColorsPfizerPrimary800Colors = "#3333d4";
-export const ColorsPfizerPrimary900Colors = "#1a1ace";
-export const ColorsPfizerPrimaryColorBaseColors = "#0000c9";
-export const ColorsPurple50Colors = "#faf0ff";
-export const ColorsPurple100Colors = "#efd1ff";
-export const ColorsPurple200Colors = "#e1b3ff";
-export const ColorsPurple300Colors = "#d097ff";
-export const ColorsPurple400Colors = "#bc7cff";
-export const ColorsPurple500Colors = "#a763f8";
-export const ColorsPurple600Colors = "#904de3";
-export const ColorsPurple700Colors = "#783bc7";
-export const ColorsPurple800Colors = "#612da5";
-export const ColorsPurple900Colors = "#4a227e";
-export const ColorsPurpleColorBaseColors = "#7838cc";
-export const ColorsWhite50Colors = "#f3f3f3";
-export const ColorsWhite100Colors = "#dddddd";
-export const ColorsWhite200Colors = "#c6c6c6";
-export const ColorsWhite300Colors = "#b0b0b0";
-export const ColorsWhite400Colors = "#9b9b9b";
-export const ColorsWhite500Colors = "#868686";
-export const ColorsWhite600Colors = "#727272";
-export const ColorsWhite700Colors = "#5e5e5e";
-export const ColorsWhite800Colors = "#4b4b4b";
-export const ColorsWhite900Colors = "#393939";
-export const ColorsWhiteColorBaseColors = "#ffffff";
-export const ColorsRed50Colors = "#ffefee";
-export const ColorsRed100Colors = "#ffd0cc";
-export const ColorsRed200Colors = "#ffb0ac";
-export const ColorsRed300Colors = "#fd928f";
-export const ColorsRed400Colors = "#f07675";
-export const ColorsRed700Colors = "#dd5c5e";
-export const ColorsRed800Colors = "#c6454a";
-export const ColorsRed900Colors = "#ab323a";
-export const ColorsRedColorBaseColors = "#8c252c";
-export const ColorsRed600Colors = "#ff5a5f";
-export const ColorsRed500Colors = "#f87171";
-export const ColorsGreen50Colors = "#e8f8e9";
-export const ColorsGreen100Colors = "#bae8c0";
-export const ColorsGreen200Colors = "#8cd799";
-export const ColorsGreen300Colors = "#5dc575";
-export const ColorsGreen400Colors = "#26b256";
-export const ColorsGreen500Colors = "#009d3c";
-export const ColorsGreen600Colors = "#008826";
-export const ColorsGreen700Colors = "#007216";
-export const ColorsGreen800Colors = "#005c0c";
-export const ColorsGreen900Colors = "#004609";
-export const ColorsGreenColorBaseColors = "#22c55e";
-export const ColorsYellow50Colors = "#fbf3e0";
-export const ColorsYellow100Colors = "#f0dba4";
-export const ColorsYellow200Colors = "#e0c46c";
-export const ColorsYellow300Colors = "#cdaf35";
-export const ColorsYellow400Colors = "#b79900";
-export const ColorsYellow500Colors = "#9f8500";
-export const ColorsYellow600Colors = "#887100";
-export const ColorsYellow700Colors = "#725d00";
-export const ColorsYellow800Colors = "#5d4a00";
-export const ColorsYellow900Colors = "#483800";
-export const ColorsYellowColorBaseColors = "#eac608";
-export const ColorsBlack50Colors = "#f3f3f3";
-export const ColorsBlack100Colors = "#dddddd";
-export const ColorsBlack200Colors = "#c6c6c6";
-export const ColorsBlack300Colors = "#b0b0b0";
-export const ColorsBlack400Colors = "#9b9b9b";
-export const ColorsBlack500Colors = "#868686";
-export const ColorsBlack600Colors = "#727272";
-export const ColorsBlack700Colors = "#5e5e5e";
-export const ColorsBlack800Colors = "#4b4b4b";
-export const ColorsBlack900Colors = "#13294b";
-export const ColorsBlackColorBaseColors = "#06041f";
-export const ColorsBlackBlackShadow5Colors = "#d9d9d9";
-export const ColorsBlackBlackShadow6Colors = "#d8d8d8";
-export const ColorsBlackBlackShadow10Colors = "#cfcfcf";
-export const ColorsBlackBlackShadow25Colors = "#acacac";
-export const ColorsBlack1000Colors = "#181818";
-export const ColorsBlack1100Colors = "#000000";
-export const ColorsLightBlue50Colors = "#f0f3fe";
-export const ColorsLightBlue100Colors = "#caddff";
-export const ColorsLightBlue200Colors = "#a3c7ff";
-export const ColorsLightBlue300Colors = "#7ab2ff";
-export const ColorsLightBlue400Colors = "#4a9dfd";
-export const ColorsLightBlue500Colors = "#0089ee";
-export const ColorsLightBlue600Colors = "#0075d9";
-export const ColorsLightBlue700Colors = "#0061be";
-export const ColorsLightBlue800Colors = "#004e9d";
-export const ColorsLightBlue900Colors = "#003b78";
-export const ColorsLightBlueColorBaseColors = "#1b96ff";
-export const ColorsLightBlue75Colors = "#caf0f8";
-export const ColorsBrown50Colors = "#f6f3ed";
-export const ColorsBrown100Colors = "#e3ddc9";
-export const ColorsBrown200Colors = "#cfc7a7";
-export const ColorsBrown300Colors = "#bbb189";
-export const ColorsBrown400Colors = "#a69b6d";
-export const ColorsBrown500Colors = "#918756";
-export const ColorsBrown600Colors = "#7c7242";
-export const ColorsBrown700Colors = "#675f32";
-export const ColorsBrown800Colors = "#534c25";
-export const ColorsBrown900Colors = "#3f391b";
-export const ColorsBrownColorBaseColors = "#a49966";
-export const ColorsLightRed50Colors = "#ffe4e4";
-export const ColorsLightRed100Colors = "#ffd3d3";
-export const ColorsLightRed200Colors = "#ffc3c3";
-export const ColorsLightRed300Colors = "#ffabab";
-export const ColorsLightRed400Colors = "#ff9696";
-export const ColorsLightRed500Colors = "#da707f";
-export const ColorsLightYellow50Colors = "#fcfbf2";
-export const ColorsLightYellow100Colors = "#f8f7e5";
-export const ColorsLightYellow200Colors = "#fffee5";
-export const ColorsLightYellow300Colors = "#fcf99a";
-export const ColorsLightYellow400Colors = "#fefc9e";
-export const ColorsLightGreen50Colors = "#f6fff6";
-export const ColorsLightGreen100Colors = "#e4fed5";
-export const ColorsLightGreen200Colors = "#d1f6b7";
-export const ColorsLightGreen300Colors = "#20f3bf";
-export const ColorsLightGreen400Colors = "#0fe9b3";
-export const ColorsLightGreen500Colors = "#47d7ac";
-export const ColorsLightGreen600Colors = "#4aedce";
-export const ColorsSkyBlue50Colors = "#f7f7f7";
-export const ColorsSkyBlue100Colors = "#f5f8ff";
-export const ColorsSkyBlue200Colors = "#eef3fd";
-export const ColorsSkyBlue300Colors = "#e1ecff";
-export const ColorsSkyBlue400Colors = "#d2e0fb";
-export const ColorsSkyBlueFocusedColors = "#5de4fd";
-export const ColorsOrange50Colors = "#fff0e4";
-export const ColorsOrange100Colors = "#f4d9c5";
-export const ColorsOrange200Colors = "#ffd6a5";
-export const ColorsOrange300Colors = "#ffb781";
-export const ColorsOrangeOrange400Colors = "#f49c57";
-export const ColorsDarkPurple100Colors = "#1a1628";
-export const ColorsPrimary50Colors = "#ebfaf6";
-export const ColorsPrimary100Colors = "#d6f5ec";
-export const ColorsPrimary200Colors = "#c2f0e3";
-export const ColorsPrimary300Colors = "#85e2c6";
-export const ColorsPrimary400Colors = "#71ddbd";
-export const ColorsPrimary500Colors = "#5dd8b3";
-export const ColorsPrimary600Colors = "#48d3aa";
-export const ColorsPrimary700Colors = "#34cea0";
-export const ColorsPrimary800Colors = "#3aab94";
-export const ColorsPrimary900Colors = "#2d807b";
-export const ColorsPrimaryColorBaseColors = "#205463";
-export const CornerRadiusNullDefault = "0px";
-export const CornerRadiusXsmallDefault = "4px";
-export const CornerRadiusSmallDefault = "8px";
-export const CornerRadiusMediumDefault = "16px";
-export const CornerRadiusLargeDefault = "32px";
-export const CornerRadiusXlargeDefault = "40px";
-export const CornerRadiusXxlargeDefault = "64px";
-export const CornerRadiusCircleDefault = "104px";
-export const CornerRadiusXxsmallDefault = "2px";
-export const Number2Colors = "2px";
-export const Number4Colors = "4px";
-export const Number8Colors = "8px";
-export const Number12Colors = "12px";
-export const Number16Colors = "16px";
-export const Number20Colors = "20px";
-export const Number24Colors = "24px";
-export const Number32Colors = "32px";
-export const Number40Colors = "40px";
-export const Number48Colors = "48px";
-export const Number56Colors = "56px";
-export const Number64Colors = "64px";
-export const Number80Colors = "80px";
-export const Number104Colors = "104px";
-export const Number36Colors = "36px";
-export const Number6Colors = "6px";
-export const ZsBlackOpacityColors = "#000000";
-export const ZsPurpleOpacityColors = "#8f5aff";
-export const ZsBlackColors = "#1a1628";
-export const ZsShadowColors = "#603fa9";
-export const ZsStrokeColors = "#484553";
-export const ZsTextGreyColors = "#a3a2a9";
-export const ZsTabStrokeColors = "#000000";
-export const ZsSideNavStrokeColors = "#000000";
-export const Purple100Colors = "#cc99e5";
-export const Purple200Colors = "#b280cc";
-export const Purple300Colors = "#9966b2";
-export const Purple400Colors = "#804d99";
-export const Purple500Colors = "#663380";
-export const Purple600Colors = "#4d1a66";
-export const Purple700Colors = "#330d4d";
-export const Purple800Colors = "#1a0033";
-export const Purple900Colors = "#0d001a";
-export const PurpleBaseColors = "#804d99";
-export const Blue100Colors = "#99b2e5";
-export const Blue200Colors = "#8099cc";
-export const Blue300Colors = "#6680b2";
-export const Blue400Colors = "#4d6699";
-export const Blue500Colors = "#334d80";
-export const Blue600Colors = "#1a3366";
-export const Blue700Colors = "#0d1a4d";
-export const Blue800Colors = "#000033";
-export const Blue900Colors = "#00001a";
-export const BlueBaseColors = "#334d80";
-export const SpacingNullCozy = "0px";
-export const SpacingXsCozy = "8px";
-export const SpacingSCozy = "12px";
-export const SpacingMdCozy = "16px";
-export const SpacingLgCozy = "20px";
-export const SpacingXlCozy = "24px";
-export const SpacingXxlCozy = "32px";
-export const Spacing3xlCozy = "36px";
-export const Spacing4xlCozy = "40px";
-export const Spacing5xlCozy = "48px";
-export const Spacing3xsCozy = "4px";
-export const Spacing2xsCozy = "6px";
-export const Spacing6xlCozy = "64px";
-export const SpacingNullCompact = "0px";
-export const SpacingXsCompact = "6px";
-export const SpacingSCompact = "6px";
-export const SpacingMdCompact = "8px";
-export const SpacingLgCompact = "12px";
-export const SpacingXlCompact = "12px";
-export const SpacingXxlCompact = "16px";
-export const Spacing3xlCompact = "16px";
-export const Spacing4xlCompact = "20px";
-export const Spacing5xlCompact = "24px";
-export const Spacing3xsCompact = "2px";
-export const Spacing2xsCompact = "4px";
-export const Spacing6xlCompact = "32px";
-export const FontFamilyZsTitleDs = "Mulish";
-export const FontFamilyZsBodyDs = "Mulish";
-export const FontWeightExtraLightDs = "Extra Light";
-export const FontWeightLightDs = "Light";
-export const FontWeightRegularDs = "Regular";
-export const FontWeightMediumDs = "Medium";
-export const FontWeightSemiboldDs = "Semibold";
-export const FontWeightBoldDs = "Bold";
-export const FontWeightExtraBoldDs = "Extra Bold";
-export const FontWeightBlackDs = "  Black";
-export const FontWeightExtraBlackDs = "Extra Black";
-export const FontSizeXxsDs = "12px";
-export const FontSizeSmDs = "20px";
-export const FontSizeMdDs = "24px";
-export const FontSizeLgDs = "32px";
-export const FontSizeXlDs = "40px";
-export const FontSize2xlDs = "48px";
-export const FontSize3xlDs = "56px";
-export const FontSize4xlDs = "64px";
-export const FontSizeXsDs = "18px";
-export const FontLineHeightXxsDs = "20px";
-export const FontLineHeightXsDs = "24px";
-export const FontLineHeightSDs = "28px";
-export const FontLineHeightMDs = "36px";
-export const FontLineHeightLDs = "48px";
-export const FontLineHeightXlDs = "56px";
-export const FontLineHeight2xlDs = "64px";
-export const FontLineHeight3xlDs = "80px";
-export const FontLineHeight4xlDs = "96px";
-export const PrimaryColorMode1 = "#ffffff";
+// designTokens.js
+        export const designTokens = {
+          colors: {
+                "brand-primary-p1-main": "#CCCCF4",
+    "brand-primary-dark": "#6666DF",
+    "brand-primary-light": "#EEEEFF",
+    "brand-secondary-main": "#7838CC",
+    "brand-secondary-dark": "#4A227E",
+    "brand-secondary-light": "#E1B3FF",
+    "type-primary": "#FFFFFF",
+    "type-secondary": "#F5F5F5",
+    "type-tertiary": "#F3F3F3",
+    "type-deactivated": "#F3F3F3",
+    "grey-main": "#9CA3AF",
+    "grey-dark": "#ABB1BA",
+    "grey-light": "#808792",
+    "interactive-default": "#B3B3EF",
+    "interactive-hover": "#9999E9",
+    "confirmation-active-2": "#9999E9",
+    "interactive-focus": "#6666DF",
+    "interactive-disabled": "#1A1ACE",
+    "confirmation-default": "#B3B3EF",
+    "confirmation-hover": "#8080E4",
+    "confirmation-active": "#004609",
+    "confirmation-focus": "#008826",
+    "confirmation-disabled": "#E8F8E9",
+    "destructive-default": "#FD928F",
+    "destructive-hover": "#F07675",
+    "destructive-active": "#F87171",
+    "destructive-focus": "#FFD0CC",
+    "destructive-disabled": "#C6454A",
+    "warning-main": "#EAC608",
+    "warning-light": "#E0C46C",
+    "info-main": "#26B256",
+    "info-light": "#BAE8C0",
+    "success-main": "#22C55E",
+    "success-light": "#8CD799",
+    "error-main": "#F87171",
+    "error-light": "#FFB0AC",
+    "surface-surface-0": "#181818",
+    "surface-surface-1": "#13294B",
+    "surface-surface-2": "#4B4B4B",
+    "surface-line": "#5E5E5E",
+    "stroke-primary": "#808792",
+    "stroke-secondary": "#353940",
+    "stroke-tertiary": "#181818",
+    "pfizer-primary-50": "#EEEEFF",
+    "pfizer-primary-100": "#E6E6FA",
+    "pfizer-primary-200": "#CCCCF4",
+    "pfizer-primary-300": "#B3B3EF",
+    "pfizer-primary-400": "#9999E9",
+    "pfizer-primary-500": "#8080E4",
+    "pfizer-primary-600": "#6666DF",
+    "pfizer-primary-700": "#4D4DD9",
+    "pfizer-primary-800": "#3333D4",
+    "pfizer-primary-900": "#1A1ACE",
+    "pfizer-primary-color-base": "#0000C9",
+    "purple-50": "#FAF0FF",
+    "purple-100": "#EFD1FF",
+    "purple-200": "#E1B3FF",
+    "purple-300": "#D097FF",
+    "purple-400": "#BC7CFF",
+    "purple-500": "#A763F8",
+    "purple-600": "#904DE3",
+    "purple-700": "#783BC7",
+    "purple-800": "#612DA5",
+    "purple-900": "#4A227E",
+    "purple-color-base": "#7838CC",
+    "grey-50": "#F5F5F5",
+    "grey-100": "#E7E7E7",
+    "grey-200": "#D7D7D9",
+    "grey-300": "#ABB1BA",
+    "grey-400": "#959CA6",
+    "grey-500": "#808792",
+    "grey-600": "#6C727E",
+    "grey-700": "#585F69",
+    "grey-800": "#464C55",
+    "grey-900": "#353940",
+    "grey-color-base": "#9CA3AF",
+    "white-50": "#F3F3F3",
+    "white-100": "#DDDDDD",
+    "white-200": "#C6C6C6",
+    "white-300": "#B0B0B0",
+    "white-400": "#9B9B9B",
+    "white-500": "#868686",
+    "white-600": "#727272",
+    "white-700": "#5E5E5E",
+    "white-800": "#4B4B4B",
+    "white-900": "#393939",
+    "white-color-base": "#FFFFFF",
+    "red-50": "#FFEFEE",
+    "red-100": "#FFD0CC",
+    "red-200": "#FFB0AC",
+    "red-300": "#FD928F",
+    "red-400": "#F07675",
+    "red-700": "#DD5C5E",
+    "red-800": "#C6454A",
+    "red-900": "#AB323A",
+    "red-color-base": "#8C252C",
+    "red-600": "#FF5A5F",
+    "red-500": "#F87171",
+    "green-50": "#E8F8E9",
+    "green-100": "#BAE8C0",
+    "green-200": "#8CD799",
+    "green-300": "#5DC575",
+    "green-400": "#26B256",
+    "green-500": "#009D3C",
+    "green-600": "#008826",
+    "green-700": "#007216",
+    "green-800": "#005C0C",
+    "green-900": "#004609",
+    "green-color-base": "#22C55E",
+    "yellow-50": "#FBF3E0",
+    "yellow-100": "#F0DBA4",
+    "yellow-200": "#E0C46C",
+    "yellow-300": "#CDAF35",
+    "yellow-400": "#B79900",
+    "yellow-500": "#9F8500",
+    "yellow-600": "#887100",
+    "yellow-700": "#725D00",
+    "yellow-800": "#5D4A00",
+    "yellow-900": "#483800",
+    "yellow-color-base": "#EAC608",
+    "black-50": "#F3F3F3",
+    "black-100": "#DDDDDD",
+    "black-200": "#C6C6C6",
+    "black-300": "#B0B0B0",
+    "black-400": "#9B9B9B",
+    "black-500": "#868686",
+    "black-600": "#727272",
+    "black-700": "#5E5E5E",
+    "black-800": "#4B4B4B",
+    "black-900": "#13294B",
+    "black-color-base": "#06041F",
+    "surface-surface-base": "#3333D4",
+    "light-blue-50": "#F0F3FE",
+    "light-blue-100": "#CADDFF",
+    "light-blue-200": "#A3C7FF",
+    "light-blue-300": "#7AB2FF",
+    "light-blue-400": "#4A9DFD",
+    "light-blue-500": "#0089EE",
+    "light-blue-600": "#0075D9",
+    "light-blue-700": "#0061BE",
+    "light-blue-800": "#004E9D",
+    "light-blue-900": "#003B78",
+    "light-blue-color-base": "#1B96FF",
+    "brown-50": "#F6F3ED",
+    "brown-100": "#E3DDC9",
+    "brown-200": "#CFC7A7",
+    "brown-300": "#BBB189",
+    "brown-400": "#A69B6D",
+    "brown-500": "#918756",
+    "brown-600": "#7C7242",
+    "brown-700": "#675F32",
+    "brown-800": "#534C25",
+    "brown-900": "#3F391B",
+    "brown-color-base": "#A49966",
+    "miscellaneous-miscellaneous-text": "#353940",
+    "surface-surface-selected-highlight": "#CCCCF4",
+    "surface-surface": "#1A1628",
+    "light-red-50": "#FFE4E4",
+    "light-red-100": "#FFD3D3",
+    "light-red-200": "#FFC3C3",
+    "light-red-300": "#FFABAB",
+    "light-red-400": "#FF9696",
+    "light-yellow-50": "#FCFBF2",
+    "light-yellow-100": "#F8F7E5",
+    "light-yellow-200": "#FFFEE5",
+    "light-yellow-300": "#FCF99A",
+    "light-yellow-400": "#FEFC9E",
+    "light-green-50": "#F6FFF6",
+    "light-green-100": "#E4FED5",
+    "light-green-200": "#D1F6B7",
+    "light-green-300": "#20F3BF",
+    "light-green-400": "#0FE9B3",
+    "sky-blue-50": "#F7F7F7",
+    "sky-blue-100": "#F5F8FF",
+    "sky-blue-200": "#EEF3FD",
+    "sky-blue-300": "#E1ECFF",
+    "sky-blue-400": "#D2E0FB",
+    "charts-primary-color-1": "#FF9696",
+    "charts-primary-color-2": "#0FE9B3",
+    "charts-primary-color-3": "#A3C7FF",
+    "charts-primary-color-4": "#FEFC9E",
+    "charts-primary-color-5": "#D097FF",
+    "orange-50": "#FFF0E4",
+    "orange-100": "#F4D9C5",
+    "orange-200": "#FFD6A5",
+    "orange-300": "#FFB781",
+    "orange-orange-400": "#F49C57",
+    "charts-primary-color-6": "#FFD6A5",
+    "charts-primary-color-7": "#EFD1FF",
+    "charts-primary-color-8": "#DA707F",
+    "light-red-500": "#DA707F",
+    "miscellaneous-miscellaneous-text-2": "#FFFFFF",
+    "miscellaneous-miscellaneous-text-3": "#F3F3F3",
+    "light-blue-75": "#CAF0F8",
+    "miscellaneous-miscellaneous-text-4": "#3333D4",
+    "shadow-shadow-1": "#F5F5F5",
+    "shadow-shadow-2": "#9CA3AF",
+    "shadow-shadow-3": "#9CA3AF",
+    "shadow-shadow-4": "#585F69",
+    "black-black-shadow-5": "#D9D9D9",
+    "black-black-shadow-6": "#D8D8D8",
+    "black-black-shadow-10": "#CFCFCF",
+    "black-black-shadow-25": "#ACACAC",
+    "sky-blue-focused": "#5DE4FD",
+    "light-green-500": "#47D7AC",
+    "miscellaneous-hyperlink": "#0000C9",
+    "light-green-600": "#4AEDCE",
+    "miscellaneous-icon-set": "#EEEEFF",
+    "interactive-active": "#8080E4",
+    "surface-surface-dark": "#1A1628",
+    "black-1000": "#181818",
+    "black-1100": "#000000",
+    "surface-surface-dl": "#1A1628",
+    "surface-surface-base-2": "#3333D4",
+    "surface-surface-base-3": "#F5F5F5",
+    "dark-purple-100": "#1A1628",
+    "surface-table-surface-1": "#000000",
+    "surface-table-surface-2": "#8F5AFF",
+    "miscellaneous-miscellaneous-text-grey": "#A3A2A9",
+    "stroke-stroke-side-nav": "#484553",
+    "stroke-stroke-bottom-nav": "#000000",
+    "shadow-shadow-zs": "#603FA9",
+    "primary-50": "#EBFAF6",
+    "primary-100": "#D6F5EC",
+    "primary-200": "#C2F0E3",
+    "primary-300": "#85E2C6",
+    "primary-400": "#71DDBD",
+    "primary-500": "#5DD8B3",
+    "primary-600": "#48D3AA",
+    "primary-700": "#34CEA0",
+    "primary-800": "#3AAB94",
+    "primary-900": "#2D807B",
+    "primary-color-base": "#205463",
+          },
+          fontSize: {
+                "xxs": "12px",
+    "sm": "20px",
+    "md": "24px",
+    "lg": "32px",
+    "xl": "40px",
+    "2xl": "48px",
+    "3xl": "56px",
+    "4xl": "64px",
+    "xs": "18px",
+    "zs-typset-table": "14",
+    "zs-heading": "16",
+    "display": "160",
+    "subtitle-regular": "13",
+    "subtitle-bold": "14",
+    "title": "48",
+    "body": "14",
+    "subheading": "25",
+    "headline-h1-400": "89.76399993896484",
+    "headline-h1-700": "89.76000213623047",
+    "headline-h2-400": "67.33999633789062",
+    "headline-h2-700": "67.33999633789062",
+    "headline-h3-400": "50.516998291015625",
+    "headline-h3-700": "50.52000045776367",
+    "headline-h4-400": "37.89699935913086",
+    "headline-h4-700": "37.89699935913086",
+    "headline-h5-400": "28.43000030517578",
+    "headline-h5-700": "28.43000030517578",
+    "headline-h6-400": "21.327999114990234",
+    "paragraph-1-400": "16",
+    "paragraph-2-400": "12.003000259399414",
+    "paragraph-2-600": "12",
+    "subtitle1-alternate-600": "14",
+    "subtitle1-500": "16",
+    "subtitle1-600": "16",
+    "subtitle2-500": "12.003000259399414",
+    "subtitle2-600": "12",
+    "button-700": "14",
+    "caption-400": "12",
+    "overline-600": "12",
+    "ios-largetitle": "34",
+    "ios-title1": "28",
+    "ios-title2": "22",
+    "ios-title3": "20",
+    "ios-headline": "17",
+    "ios-body": "17",
+    "ios-largebutton": "17",
+    "ios-callout": "16",
+    "ios-subheadline": "14",
+    "ios-smallbutton": "15",
+    "ios-footnote": "13",
+    "ios-caption1": "12",
+    "ios-caption2": "11",
+    "website-h1-400": "72",
+    "website-h1-700": "72",
+    "website-h2-400": "40",
+    "website-h2-700": "40",
+    "website-h3-400": "32",
+    "website-h3-700": "32",
+    "website-h4-400": "24",
+    "website-h4-700": "24",
+    "website-paragraph-1-400": "18",
+    "website-paragraph-1-700": "18",
+    "website-paragraph-2-400": "16",
+          },
+          spacing: {
+                "null": "0px",
+    "xs": "6px",
+    "s": "6px",
+    "md": "8px",
+    "lg": "12px",
+    "xl": "12px",
+    "xxl": "16px",
+    "3xl": "16px",
+    "4xl": "20px",
+    "5xl": "24px",
+    "3xs": "2px",
+    "2xs": "4px",
+    "6xl": "32px",
+          },
+          fontWeight: {
+                "extra-light": "Extra Light",
+    "light": "Light",
+    "regular": "Regular",
+    "medium": "Medium",
+    "semibold": "Semibold",
+    "bold": "Bold",
+    "extra-bold": "Extra Bold",
+    "black": "  Black",
+    "extra-black": "Extra Black",
+    "zs-typset-table": "Regular",
+    "zs-heading": "N/A",
+    "display": "  Black",
+    "subtitle-regular": "Regular",
+    "subtitle-bold": "Bold",
+    "title": "Bold",
+    "body": "Regular",
+    "subheading": "Semibold",
+    "headline-h1-400": "Regular",
+    "headline-h1-700": "Regular",
+    "headline-h2-400": "Regular",
+    "headline-h2-700": "Bold",
+    "headline-h3-400": "Regular",
+    "headline-h3-700": "Bold",
+    "headline-h4-400": "Regular",
+    "headline-h4-700": "Bold",
+    "headline-h5-400": "Regular",
+    "headline-h5-700": "Bold",
+    "headline-h6-400": "Semibold",
+    "paragraph-1-400": "Regular",
+    "paragraph-2-400": "Regular",
+    "paragraph-2-600": "Medium",
+    "subtitle1-alternate-600": "Semibold",
+    "subtitle1-500": "Medium",
+    "subtitle1-600": "Semibold",
+    "subtitle2-500": "Medium",
+    "subtitle2-600": "Semibold",
+    "button-700": "Bold",
+    "caption-400": "Regular",
+    "overline-600": "Semibold",
+    "ios-largetitle": "Regular",
+    "ios-title1": "Semibold",
+    "ios-title2": "Semibold",
+    "ios-title3": "Semibold",
+    "ios-headline": "Bold",
+    "ios-body": "Regular",
+    "ios-largebutton": "Regular",
+    "ios-callout": "Medium",
+    "ios-subheadline": "Medium",
+    "ios-smallbutton": "Regular",
+    "ios-footnote": "Regular",
+    "ios-caption1": "Regular",
+    "ios-caption2": "Regular",
+    "website-h1-400": "Regular",
+    "website-h1-700": "Bold",
+    "website-h2-400": "Regular",
+    "website-h2-700": "Bold",
+    "website-h3-400": "Regular",
+    "website-h3-700": "Bold",
+    "website-h4-400": "Regular",
+    "website-h4-700": "Bold",
+    "website-paragraph-1-400": "Regular",
+    "website-paragraph-1-700": "Bold",
+    "website-paragraph-2-400": "Bold",
+          },
+          fontFamily: {
+                "zs-typset-table": ["Mulish"],
+    "zs-heading": ["Mulish"],
+    "display": ["Mulish"],
+    "subtitle-regular": ["Mulish"],
+    "subtitle-bold": ["Mulish"],
+    "title": ["Mulish"],
+    "body": ["Mulish"],
+    "subheading": ["Mulish"],
+    "headline-h1-400": ["Mulish"],
+    "headline-h1-700": ["Mulish"],
+    "headline-h2-400": ["Mulish"],
+    "headline-h2-700": ["Mulish"],
+    "headline-h3-400": ["Mulish"],
+    "headline-h3-700": ["Mulish"],
+    "headline-h4-400": ["Mulish"],
+    "headline-h4-700": ["Mulish"],
+    "headline-h5-400": ["Mulish"],
+    "headline-h5-700": ["Mulish"],
+    "headline-h6-400": ["Mulish"],
+    "paragraph-1-400": ["Mulish"],
+    "paragraph-2-400": ["Mulish"],
+    "paragraph-2-600": ["Mulish"],
+    "subtitle1-alternate-600": ["Mulish"],
+    "subtitle1-500": ["Mulish"],
+    "subtitle1-600": ["Mulish"],
+    "subtitle2-500": ["Mulish"],
+    "subtitle2-600": ["Mulish"],
+    "button-700": ["Mulish"],
+    "caption-400": ["Mulish"],
+    "overline-600": ["Mulish"],
+    "ios-largetitle": ["Mulish"],
+    "ios-title1": ["Mulish"],
+    "ios-title2": ["Mulish"],
+    "ios-title3": ["Mulish"],
+    "ios-headline": ["Mulish"],
+    "ios-body": ["Mulish"],
+    "ios-largebutton": ["Mulish"],
+    "ios-callout": ["Mulish"],
+    "ios-subheadline": ["Mulish"],
+    "ios-smallbutton": ["Mulish"],
+    "ios-footnote": ["Mulish"],
+    "ios-caption1": ["Mulish"],
+    "ios-caption2": ["Mulish"],
+    "website-h1-400": ["Mulish"],
+    "website-h1-700": ["Mulish"],
+    "website-h2-400": ["Mulish"],
+    "website-h2-700": ["Mulish"],
+    "website-h3-400": ["Mulish"],
+    "website-h3-700": ["Mulish"],
+    "website-h4-400": ["Mulish"],
+    "website-h4-700": ["Mulish"],
+    "website-paragraph-1-400": ["Mulish"],
+    "website-paragraph-1-700": ["Mulish"],
+    "website-paragraph-2-400": ["Mulish"],
+          },
+          borderRadius: {
+                "null": "0px",
+    "xsmall": "4px",
+    "small": "8px",
+    "medium": "16px",
+    "large": "32px",
+    "xlarge": "40px",
+    "xxlarge": "64px",
+    "circle": "104px",
+    "xxsmall": "2px",
+          },
+        };
