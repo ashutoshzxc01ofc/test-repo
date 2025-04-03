@@ -2,7 +2,7 @@
         export const designTokens = {
           colors: {
                 "brand-primary-p1-main-dark-mode": "#71DDBD",
-    "brand-primary-p1-main-light-mode": "#205463",
+    "brand-primary-p1-main-light-mode": "#783BC7",
     "brand-primary-p1-main-new-mode": "#CCCCF4",
     "brand-primary-dark-dark-mode": "#71DDBD",
     "brand-primary-dark-light-mode": "#2D807B",
