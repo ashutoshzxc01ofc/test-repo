@@ -2,7 +2,7 @@
         export const designTokens = {
           colors: {
                 "brand-primary-p1-main-dark-mode": "#71DDBD",
-    "brand-primary-p1-main-light-mode": "#904DE3",
+    "brand-primary-p1-main-light-mode": "#205463",
     "brand-primary-p1-main-new-mode": "#CCCCF4",
     "brand-primary-dark-dark-mode": "#71DDBD",
     "brand-primary-dark-light-mode": "#2D807B",
@@ -41,7 +41,7 @@
     "grey-light-light-mode": "#F5F5F5",
     "grey-light-new-mode": "#808792",
     "interactive-default-dark-mode": "#85E2C6",
-    "interactive-default-light-mode": "#D097FF",
+    "interactive-default-light-mode": "#205463",
     "interactive-default-new-mode": "#B3B3EF",
     "interactive-hover-dark-mode": "#71DDBD",
     "interactive-hover-light-mode": "#2D807B",
@@ -606,7 +606,7 @@
     "medium-default": "16px",
     "large-default": "32px",
     "xlarge-default": "40px",
-    "xxlarge-default": "0px",
+    "xxlarge-default": "64px",
     "circle-default": "104px",
     "xxsmall-default": "2px",
           },
